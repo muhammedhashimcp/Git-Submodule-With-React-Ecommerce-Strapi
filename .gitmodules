@@ -1,0 +1,3 @@
+[submodule "react-ecommerce-strapi-reference"]
+	path = react-ecommerce-strapi-reference
+	url = https://github.com/muhammedhashimcp/React-Ecommerce-Strapi.git
